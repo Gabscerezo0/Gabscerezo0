@@ -1,8 +1,8 @@
 ## ¡Hola! 👋  
 
-🔭 En este momento, estoy sumergido en proyectos personales relacionados con el análisis de datos.
+🔭 En este momento, estoy sumergida en proyectos personales relacionados con el análisis de datos.
 
-🌱 Estoy profundizando en SQL avanzado y perfeccionando mis habilidades en visualización de datos.
+🌱 Estoy profundizando en SQL y perfeccionando mis habilidades en visualización de datos.
 
 👯 Me encantaría colaborar en proyectos de análisis de datos utilizando SQL, Python, y herramientas de visualización como Power BI y Tableau.
 
