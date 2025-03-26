@@ -4,7 +4,7 @@
 🌱 Estoy aprendiendo SQL avanzado y mejorando mis habilidades en visualización de datos.  
 👯 Me gustaría colaborar en proyectos de análisis de datos utilizando SQL, Python y y visualización de datos con Power BI y Tableau.   
 💬 Pregúntame sobre visualización de datos, consultas SQL y generación de insights.  
-📫 Cómo contactarme: [LinkedIn](www.linkedin.com/in/gabriela-castro-cerecedo) | 📧 gabyfercer@hotmail.com  
+📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/gabriela-castro-cerecedo) | 📧 gabyfercer@hotmail.com  
 ⚡ Dato curioso: Me encanta descubrir patrones ocultos en los datos que cuentan una gran historia.  
 
 ✨ Me caracterizo por mi **pensamiento analítico** y mi **atención al detalle**, lo que me permite abordar
