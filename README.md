@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Bienvenido a mi Portafolio  
+## ¡Hola! 👋 Bienvenid@ a mi Portafolio  
 
 🔭 En este momento, estoy trabajando en proyectos personales relacionados con el análisis de datos utilizando SQL, Python, y herramientas de visualización como Power BI y Tableau.
 
