@@ -8,7 +8,7 @@
 
 💬 No dudes en preguntarme sobre visualización de datos, consultas SQL y cómo generar insights valiosos.
 
-📫 Si quieres contactarme: LinkedIn | 📧 gabyfercer@hotmail.com
+📫 Si quieres contactarme:[LinkedIn](https://www.linkedin.com/in/gabriela-castro-cerecedo) | 📧 gabyfercer@hotmail.com
 
 ⚡ Un dato curioso sobre mí: disfruto descubriendo patrones ocultos en los datos que cuentan historias fascinantes.
 
