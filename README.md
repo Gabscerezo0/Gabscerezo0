@@ -2,7 +2,7 @@
 
 🔭 Actualmente, estoy trabajando en proyectos personales de análisis de datos.  
 🌱 Estoy aprendiendo SQL avanzado y mejorando mis habilidades en visualización de datos.  
-👯 Me gustaría colaborar en proyectos de análisis de datos utilizando SQL, Python y Power BI.  
+👯 Me gustaría colaborar en proyectos de análisis de datos utilizando SQL, Python y y visualización de datos con Power BI y Tableau.   
 💬 Pregúntame sobre visualización de datos, consultas SQL y generación de insights.  
 📫 Cómo contactarme: [LinkedIn](www.linkedin.com/in/gabriela-castro-cerecedo) | 📧 gabyfercer@hotmail.com  
 ⚡ Dato curioso: Me encanta descubrir patrones ocultos en los datos que cuentan una gran historia.  
@@ -12,8 +12,10 @@ problemas con un enfoque lógico y creativo. Disfruto trabajar en equipo y colab
 siempre con una mentalidad orientada a resultados.  
 
 ## 🚀 Tecnologías y Herramientas  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+<p align="left">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">  
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">  
+</p>
