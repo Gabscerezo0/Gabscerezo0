@@ -21,3 +21,28 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">  
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">  
 </p>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Hello! 👋 Welcome to my Portfolio  
+
+🔭 Right now, I'm working on personal projects related to data analysis using SQL, Python, and visualization tools like Power BI and Tableau.
+
+🌱 I'm delving into SQL and honing my data visualization skills.
+
+💬 Feel free to ask me about data visualization, SQL queries, and how to generate valuable insights.
+
+📫 If you want to contact me:[LinkedIn](https://www.linkedin.com/in/gabriela-castro-cerecedo) | 📧 gabyfercer@hotmail.com
+
+⚡ Fun fact about me: I enjoy discovering hidden patterns in data that tell fascinating stories.
+
+✨ I am defined by my analytical thinking and attention to detail, which allows me to approach problems logically and creatively.I like to work in a team and collaborate in data-driven decision-making, always with a results-oriented approach.
+
+## 🚀 Technologies and Tools
+<p align="left">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">  
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">  
+</p>
